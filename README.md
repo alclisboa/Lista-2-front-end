@@ -1,4 +1,8 @@
 # Lista-2-front-end
+
+Instruções:
+yarn start 
+
 Instruções
 Elaborar o projeto de Marketplace (PUBLICA, usuário, vendedor, admin do site).
 
